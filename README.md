@@ -1,4 +1,4 @@
-# WordCountEnginer
+# WordCountEngine
 Word Count Engine
 Implement a document scanning function wordCountEngine, which receives a string document and returns a list of all
 unique words in it and their number of occurrences, sorted by the number of occurrences in a descending order. If two
